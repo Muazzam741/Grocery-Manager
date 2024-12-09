@@ -29,8 +29,7 @@ A lightweight web application for managing grocery store inventory, tracking ord
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/grocery-management.git
-cd grocery-management
+git clone https://github.com/Muazzam741/Grocery-Manager.git
 ```
 
 ### **2. Set Up Virtual Environment**
@@ -171,4 +170,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## **Contact**
-For questions or support, please contact [muazzamali741@gmail.com].
+For questions or support, please contact [muazzamali741@gmail.com](muazzamali741@gmail.com).
